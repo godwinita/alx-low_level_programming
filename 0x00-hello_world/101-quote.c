@@ -10,7 +10,8 @@
  *   *                followed by a new line, to standard error.
  *    *
  *     * Return: Always 1.
- *      */
+ */
+
 int main(void)
 {
 	write(2,
