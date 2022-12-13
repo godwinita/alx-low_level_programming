@@ -1,1 +1,1 @@
-0-putchar.c
+This raedme is for functions loops code
