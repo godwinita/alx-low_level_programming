@@ -4,7 +4,6 @@
  * main - Print _putchar
  * is writeen bt hellogeetech
  * Return: Always 0
- *
  */
 
 int main(void)
